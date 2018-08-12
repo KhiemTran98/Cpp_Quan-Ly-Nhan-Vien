@@ -1,0 +1,6 @@
+﻿  NhanVien.cpp
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project3\project3\nhanvien.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project3\project3\nhanvien.cpp(45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\gia_k\onedrive\tài liệu\visual studio 2017\projects\project3\project3\nhanvien.cpp(48): warning C4715: 'LuongCaoNhat': not all control paths return a value
+  Project3.vcxproj -> C:\Users\gia_k\OneDrive\tài liệu\Visual Studio 2017\Projects\Project3\Debug\Project3.exe
+  Project3.vcxproj -> C:\Users\gia_k\OneDrive\tài liệu\Visual Studio 2017\Projects\Project3\Debug\Project3.pdb (Partial PDB)
